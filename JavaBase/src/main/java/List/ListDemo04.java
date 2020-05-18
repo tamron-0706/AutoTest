@@ -29,7 +29,6 @@ public class ListDemo04 {
         }
         System.out.println("--------");
 
-
         LinkedList<String> link = new LinkedList<String>();
 
         link.add("hello");
